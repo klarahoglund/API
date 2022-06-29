@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+    margin-top: 5%;
+}
+
+.title {
+    margin-left: 45%;
+
+    margin-top: 5%;
+    font-size: 300%;
+}
+
+.gameBoard {
+    height: 500px;
+    background-color: #35654d;
+}

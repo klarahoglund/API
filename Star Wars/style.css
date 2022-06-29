@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(243, 232, 232);
+}
+
+.container {
+    margin: 0 auto;
+    width: 60%;
+    margin-top: 20%;
+}
